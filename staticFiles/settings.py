@@ -121,4 +121,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS=["C:\Users\Rajesh\Desktop\workspace\django_projects\staticFiles\static",]
+STATICFILES_DIRS=[
+STATIC_DIR,
+]
